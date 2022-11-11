@@ -1,0 +1,11 @@
+{
+  "name": "svgroundedsquare",
+  "version": "0.0.1",
+  "description": "Small tool to create rectangle with rounded corners using svg path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
